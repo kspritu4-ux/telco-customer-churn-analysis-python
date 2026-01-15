@@ -64,4 +64,9 @@ This repository serves as:
 
 ## 📌 Notes
 - Projects are beginner-friendly and concept-focused  
-- Emphasis is on understanding data and logic rather th
+- Emphasis is on understanding data and logic rather than heavy optimization  
+
+---
+
+## 📫 Author
+**Ritu Yadav**  
